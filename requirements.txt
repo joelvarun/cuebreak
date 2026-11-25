@@ -1,0 +1,4 @@
+matplotlib>=3.7
+
+# Optional: the test suite also runs as plain python, see tests/test_cuebreak.py
+pytest>=7.0

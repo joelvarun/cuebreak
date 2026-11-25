@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.idea/
+.vscode/
+
+# Downloaded once by tools/build_streams.py; the derived timings in
+# data/streams.json are what the benchmark reads.
+data/ami_public_manual_1.6.2.zip
